@@ -1,10 +1,26 @@
-Golang Backend developer
-16 лет
-tg - @rxmanich
-vk - https://vk.ru/roman4esno4ek
-СТЕК ТЕХНОЛОГИЙ - Go, PostgreSQL, Docker, Docker Compose, Swagger, WebSocket, JWT-auth
+# Привет👋
 
-https://github.com/simonkefir/golang-todoapp - на данный момент мой самый простенький пет проект, в котором используется PostgreSQL, REST API, естественно golang, docker, docker compose, swagger 
-https://github.com/simonkefir/golang-messenger - мой второй законченный пет проект, стек технологий - PostgreSQL, REST API, Golang, Docker, Docker Compose, Swagger, WebSocket, JWT-auth . он был чуть больше, чем тудулист, ведь я его довёл даже до публикации на впс сервер. Весь задуманный в нём функционал был реализован
+Мне 16 лет, меня зовут Богдан, я Backend-разработчик на Go. 
 
-i use arch btw)
+## 🛠 Мой стек
+- **Язык:** Go
+- **База данных:** PostgreSQL
+- **Инструменты:** Docker, Docker Compose, Swagger
+- **Технологии:** REST API, WebSocket, JWT-auth
+
+## 🚀 Мои проекты
+
+### [golang-todoapp](https://github.com/simonkefir/golang-todoapp/)
+Туду лист на Go с PostgreSQL, Docker и Swagger.
+
+### [golang-messenger](https://github.com/simonkefir/golang-messenger/)
+Мессенджер с обменом сообщениями в реальном времени.
+- В README.MD всё достаточно подробно расписанно для запуска 
+
+## 📫 Связаться со мной
+- Telegram: [@rxmanich](https://t.me/rxmanich)
+- VK: [https://vk.ru/roman4esno4ek]
+
+
+
+# **i use arch btw)**
